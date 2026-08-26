@@ -1,1 +1,108 @@
 
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog do Vôlei - Eduardo Machuga</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Blog do Vôlei</h1>
+        <p>Curiosidades, táticas e histórias do mundo do voleibol por Eduardo Augusto Machuga Pereira</p>
+    </header>
+    <main>
+        <article>
+            <img src="imagem-primeiro-post.png"
+                alt="Ilustração estilizada de uma bola de vôlei cruzando uma rede.">
+            <div>
+                <h2>Bem-vindos ao Blog do Vôlei!</h2>
+                <p class="artigo-autor">Por: Eduardo Augusto Machuga Pereira</p>
+                <p>Neste espaço vou compartilhar dados, curiosidades e reflexões sobre um dos esportes mais apaixonantes do planeta.</p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-origem.png"
+                alt="Ilustração conceitual com elementos retrô de quadra e rede de mintonette.">
+            <div>
+                <h2>A origem: Mintonette</h2>
+                <p class="artigo-autor">Por: Eduardo Augusto Machuga Pereira</p>
+                <p>O vôlei foi criado em 1895 por William G. Morgan nos EUA sob o nome de 'Mintonette', pensado como um esporte sem contato físico direto.</p>
+
+                <p class="artigo-fonte">Fonte: FIVB</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-saque-jornada.png"
+                alt="Ilustração icônica de um jogador realizando o famoso saque Jornada nas Estrelas.">
+            <div>
+                <h2>O lendário Saque Jornada nas Estrelas</h2>
+                <p class="artigo-autor">Por: Eduardo Augusto Machuga Pereira</p>
+                <p>Famoso na década de 80 com Bernard Rajzman, a bola subia cerca de 25 metros de altura e caía como um meteoro na quadra adversária.</p>
+
+                <p class="artigo-fonte">Fonte: CBV</p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-libero.png"
+                alt="Ilustração de um jogador de vôlei vestindo uma camisa de cor diferente fazendo uma defesa de manchete.">
+            <div>
+                <h2>A revolução da posição de Líbero</h2>
+                <p class="artigo-autor">Por: Eduardo Augusto Machuga Pereira</p>
+                <p>Introduzido em 1998 para tornar os ralis mais longos e o jogo mais dinâmico, o líbero é o especialista em recepção e defesa.</p>
+
+                <p class="artigo-fonte">Fonte: WebVôlei</p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-velocidade.png"
+                alt="Ilustração conceitual representando velocidade e impacto de um ataque de vôlei com velocímetro.">
+            <div>
+                <h2>Quão rápido é um cortada de vôlei?</h2>
+                <p class="artigo-autor">Por: Eduardo Augusto Machuga Pereira</p>
+                <p>No vôlei masculino profissional, o saque e a cortada podem ultrapassar incríveis 130 km/h, exigindo reflexos impressionantes dos defensores.</p>
+
+                <p class="artigo-fonte">Fonte: Guiness World Records</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-praia.png"
+                alt="Ilustração de uma rede de vôlei na praia com sol ao fundo e bola na areia.">
+            <div>
+                <h2>Vôlei de Praia vs. Vôlei de Quadra</h2>
+                <p class="artigo-autor">Por: Eduardo Augusto Machuga Pereira</p>
+                <p>Apesar das regras parecidas, o vôlei de praia possui dimensões de quadra ligeiramente menores e apenas dois jogadores, exigindo extremo preparo físico.</p>
+
+                <p class="artigo-fonte">Fonte: Ge</p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
